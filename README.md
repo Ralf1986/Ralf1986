@@ -26,17 +26,9 @@
 
 
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação..
+Apaixonado por tecnologia..
 
-### Principais repositórios:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralf1986)](https://github.com/anuraghazra/github-readme-stats)
-
-- [Algoritmos de ordenação em Java - algoritmos de ordenação para classificar arrays ou listas de elementos](https://github.com/Ralf1986/AlgoritmoDeOrdenacaoJava)<br/>
-
-- [Algumas formas de pesquisar elementos em uma lista, de forma sequencial, binaria e recursiva](https://github.com/Ralf1986/Pesquisa_em_java/tree/main)<br/>
-
-- [Projeto Biblioteca Amigos do Livro](https://github.com/Ralf1986/Projeto-Biblioteca-Comunitaria/tree/main)<br/>
 
 
 <div style="display: inline_block">
